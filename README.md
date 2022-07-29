@@ -72,7 +72,7 @@ Any questions or issues may be directed to myself. Visit my [GitHub profile](htt
 License
 -------
 
-This README file is distributed under the terms of the [GNU General Public License (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html).  The license applies to this file and other files in the [GitHub repository](https://github.com/soulslurpee/code-refactor-challenge/) hosting this file. This does _not_ mean that you, as a user of this code in your software project, must also use GNU license!  You may use any license for your work that you see fit.
+This project is distributed under the terms of the [GNU General Public License (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html).  The license applies to this file and other files in the [GitHub repository](https://github.com/soulslurpee/code-refactor-challenge/) hosting this file. This does _not_ mean that you, as a user of this code in your software project, must also use GNU license!  You may use any license for your work that you see fit.
 
 
 Authors
