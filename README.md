@@ -60,9 +60,9 @@ Usage
 
 ### Basic operation
 
-This project is not a hosted website, but it is meant to be a simple example of how to refactor a codebase to meet a certain set of standards.
+This project is hosted on GitHub pages, but it is meant to be a simple example of how to refactor a codebase to meet a certain set of standards.
 
-To view the finished website, simply clone this repository and open the `index.html` file in your browser of choice.
+Deployed Project: https://soulslurpee.github.io/code-refactor-challenge/
 
 Getting help
 ------------
